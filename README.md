@@ -67,4 +67,4 @@ Currently building and documenting projects in:
 
 - GitHub: [@yuvaraajt](https://github.com/yuvaraajt)
 - LinkedIn: Add your LinkedIn profile here
-- Email: Add your professional email here
+- Email: Add your professional email here.
