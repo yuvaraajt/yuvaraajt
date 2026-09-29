@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Yuvaraaj 👋
 
-<!--
-**yuvaraajt/yuvaraajt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Data Science @ CHRIST University
 
-Here are some ideas to get you started:
+I'm a Data Science student interested in **Data Analytics, Machine Learning, Artificial Intelligence, and building practical software solutions.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+### Programming
+- Python
+- C++
+- SQL
+- JavaScript
+
+### Data Science & AI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Data Visualization
+
+### Development
+- React
+- Vite
+- HTML
+- CSS
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 🔹 CopiWriter
+B2B content and copywriting website focused on AI SaaS, technology,
+cybersecurity and deep-tech businesses.
+
+**Tech:** React, Vite, JavaScript, HTML, CSS, Vercel
+
+🔗 [View Project](https://github.com/yuvaraajt/CopiWriter)
+
+### 🔹 More Projects Coming Soon
+
+Currently building and documenting projects in:
+
+- 📊 Data Analytics
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🔍 Data Visualization
+- 🌐 Full-Stack Development
+
+## 📚 Currently Learning
+
+- Advanced Data Science
+- Machine Learning
+- AI
+- Data Visualization
+- Building production-ready applications
+
+## 🎯 Goals
+
+- Build practical Data Science projects
+- Participate in technical competitions and hackathons
+- Contribute to open-source projects
+- Prepare for Data Science and Software Engineering opportunities
+
+## 📫 Connect With Me
+
+- GitHub: [@yuvaraajt](https://github.com/yuvaraajt)
+- LinkedIn: Add your LinkedIn profile here
+- Email: Add your professional email here
