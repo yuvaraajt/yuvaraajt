@@ -66,5 +66,5 @@ Currently building and documenting projects in:
 ## 📫 Connect With Me
 
 - GitHub: [@yuvaraajt](https://github.com/yuvaraajt)
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/yuvaraaj-t-59927a332/ 
 - Email: tyuvaraaj7@gmail.com
